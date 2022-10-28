@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eiCFBZ5fJhGydZbDMlOMRJCHKbSnTbHb0dftSdLClxc=",
+  "Source": "student-registration",
+  "BasePath": "_content/student-registration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
